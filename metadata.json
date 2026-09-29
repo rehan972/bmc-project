@@ -1,0 +1,6 @@
+{
+  "name": "AI BMC Complaint Triage",
+  "description": "AI-powered civic complaint triage system for classifying, prioritizing, and routing municipal complaints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
